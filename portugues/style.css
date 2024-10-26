@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+header, section {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+header {
+    text-align: center;
+    background-color: #333;
+    color: #ffffff;
+}
+h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+.video, .memes {
+    margin: 20px 0;
+   
+}
+.memes img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.perguntas {
+    background-color: #e0e0e0;
+    padding: 15px;
+    border-radius: 8px;
+}
+.perguntas h3 {
+    margin-top: 0;
+}
+.video{
+    width: 100px;
+}
+
